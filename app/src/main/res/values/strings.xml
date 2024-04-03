@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Contries_Project 1</string>
+        <string name="btn">Button</string>
+    <string name="france_m">France, officially the French Republic, is a country located primarily in Western Europe. It also includes overseas regions and territories in the Americas and the Atlantic, Pacific and Indian oceans, giving it one of the largest discontiguous exclusive economic zones in the world.</string>
+    <string name="india_m">India, officially the Republic of India, is a country in South Asia. It is the seventh-largest country by area; the most populous country as of June 2023; and from the time of its independence in 1947, the world\'s most populous democracy.</string>
+    <string name="germany_m">"Germany, officially the Federal Republic of Germany, is a country in the western region of Central Europe. It is the second-most populous country in Europe after Russia, and the most populous member state of the European Union. "</string>
+    <string name="usa_m">The United States of America, commonly known as the United States or simply America, is a country primarily located in North America.</string>
+    <string name="japan_m">Japan is an island country in East Asia. It is in the northwest Pacific Ocean and is bordered on the west by the Sea of Japan, extending from the Sea of Okhotsk in the north toward the East China Sea, Philippine Sea, and Taiwan in the south</string>
+    <string name="italy_m">Italy, officially the Italian Republic, is a country in Southern and Western Europe. Located in the middle of the Mediterranean Sea, it consists of a peninsula surrounded by the Alps and several islands, notably Sicily and Sardinia.\n</string>
+    <string name="russia_m">Russia, or the Russian Federation, is a country spanning Eastern Europe and North Asia. It is the largest country in the world by area, extending across eleven time zones. It shares land boundaries with fourteen countries.</string>
+    <string name="canada_m">Canada is a country in North America. Its ten provinces and three territories extend from the Atlantic Ocean to the Pacific Ocean and northward into the Arctic Ocean, making it the world\'s second-largest country by total area.\n</string>
+    <string name="belgium_m">Belgium, officially the Kingdom of Belgium, is a country in Northwestern Europe. The country is bordered by the Netherlands to the north, Germany to the east, Luxembourg to the southeast, France to the south, and the North Sea to the west.</string>
+    <string name="poland_m">Poland, country of central Europe. Poland is located at a geographic crossroads that links the forested lands of northwestern Europe and the sea lanes of the Atlantic Ocean to the fertile plains of the Eurasian frontier.</string>
+</resources>
